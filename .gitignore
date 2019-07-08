@@ -4,6 +4,7 @@ sass/.sass-cache
 production_only/
 
 test.png
+upload_*
 
 # Logs
 logs
