@@ -20,6 +20,6 @@
   "homepage": "https://github.com/markal84/17.9-simple-file-upload#readme",
   "dependencies": {
     "colors": "^1.3.3",
-    "formidable": "^1.2.1"
+    "formidable": "^3.2.4"
   }
 }
